@@ -5,7 +5,7 @@ This is a demo of the `Location` class.
 # Installation
 
 ```bash
-pip install mypackage
+pip install greatarc
 ```
 # Example
 ```python
