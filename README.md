@@ -1,4 +1,4 @@
-# mypackage
+# greatarc
 
 This is a demo of the `Location` class.
 
