@@ -23,5 +23,9 @@ class Location:
         distance = radius * c
 
         unit = "km"
+
+        unit = "miles"
+
+        1 km = .0621371
         
         return distance
